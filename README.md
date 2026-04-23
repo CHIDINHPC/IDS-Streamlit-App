@@ -5,7 +5,7 @@
 
 ---
 
-## 🔗 Demo https://ids-security-dashboard.streamlit.app
+## 🔗 Demo [https://ids-security-dashboard.streamlit.app](https://ids-ai-system.streamlit.app/)
 
 ## 💻 Source Code [https://github.com/CHIDINHPC/IDS-Streamlit-App](https://github.com/CHIDINHPC/IDS-Streamlit-App)
 
